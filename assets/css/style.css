@@ -535,7 +535,7 @@ header .navbar ul li a:hover {
 /* education section starts */
 .education {
   background: #e5ecfb;
-  min-height: 80vh;
+  min-height: 50vh;
 }
 .education .qoute {
   font-size: 1.5rem;
@@ -554,7 +554,7 @@ header .navbar ul li a:hover {
 .education .box-container .box {
   display: flex;
   flex-direction: row;
-  width: 80%;
+  width: 60%;
   border-radius: 0.5rem;
   box-shadow: 0.2rem 0.5rem 1rem rgba(0, 0, 0, 0.2);
   text-align: center;
@@ -569,13 +569,13 @@ header .navbar ul li a:hover {
   box-shadow: 1rem 0.5rem 1.2rem rgba(0, 0, 0, 0.3);
 }
 .education .box-container .box .image {
-  flex: 1 1 20rem;
+  flex: 1 1 30rem;
   width: 100%;
 }
 .education .box-container .box img {
-  object-fit: cover;
+  object-fit: fill;
   position: relative;
-  width: 100%;
+  width: 110%;
   height: 100%;
 }
 .education .box-container .box .content {
@@ -583,6 +583,8 @@ header .navbar ul li a:hover {
   display: flex;
   flex-direction: column;
   padding: 1rem;
+  padding-left: 4rem;
+
   flex-wrap: wrap;
   flex: 1 1 70rem;
 }
