@@ -660,7 +660,7 @@ header .navbar ul li a:hover {
   margin: 2rem;
 }
 .work .box-container .box {
-  flex: 1 1 30rem;
+  flex: 1 1 calc(50% - 10px);
   border-radius: 0.5rem;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   position: relative;
@@ -690,7 +690,7 @@ header .navbar ul li a:hover {
   height: 4.5rem;
   width: 100%;
   padding-left: 1rem;
-  background: #ffd900;
+  background: white;
 }
 .work .box-container .box .content .tag h3 {
   font-size: 2rem;
