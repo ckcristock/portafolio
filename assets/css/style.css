@@ -1225,3 +1225,6 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+#loom-companion-mv3 {
+  display: none;
+}
