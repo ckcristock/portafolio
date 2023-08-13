@@ -242,8 +242,8 @@ srtop.reveal(".about .content .box-container", { delay: 50 });
 srtop.reveal(".about .content .resumebtn", { delay: 50 });
 
 /* SCROLL SKILLS */
-srtop.reveal(".skills .container", { interval: 50 });
-srtop.reveal(".skills .container .bar", { delay: 100 });
+srtop.reveal(".skills .container", { interval: 0.5 });
+srtop.reveal(".skills .container .bar", { delay: 1 });
 
 /* SCROLL EDUCATION */
 srtop.reveal(".education .box", { interval: 100 });
