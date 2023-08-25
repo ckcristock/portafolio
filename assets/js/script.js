@@ -75,11 +75,14 @@ $(document).ready(function () {
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
   strings: [
-    "Frontend development",
+    // "Desarrollador Frontend",
     // "backend development",
     // "web designing",
     // "android development",
-    "Web development",
+    // "Desarrollador Backend",
+    "Desarrollador Fullstack",
+    "Desarrollador Frontend: Angular, React, Vue.js ",
+    "Desarrollador Backend: PHP, Laravel",
   ],
   loop: true,
   typeSpeed: 50,
