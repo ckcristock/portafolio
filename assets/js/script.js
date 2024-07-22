@@ -80,7 +80,7 @@ var typed = new Typed(".typing-text", {
     // "web designing",
     // "android development",
     // "Desarrollador Backend",
-    "Desarrollador Fullstack",
+    "Desarrollador Full-stack",
     "Desarrollador Frontend: Angular, React, Vue.js ",
     "Desarrollador Backend: PHP, Laravel",
   ],
