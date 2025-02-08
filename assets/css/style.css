@@ -1229,3 +1229,8 @@ form .button-area {
 #loom-companion-mv3 {
   display: none;
 }
+.contenedor {
+  display: flex; /* Activa Flexbox */
+  justify-content: center; /* Centra las imágenes horizontalmente */
+  gap: 10px; /* Espacio entre imágenes */
+}
